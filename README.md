@@ -1,6 +1,8 @@
 # 内容共享管理客户端
 内容共享管理客户端是一个支持多平台的应用程序，通过访问[内容共享管理服务端](https://github.com/Webb-L/contentShareManageServer)，将内容发送至服务器，以供其他客户端浏览。
 
+[![JetBrains](https://img.shields.io/badge/JetBrains-Sponsor-blue)](https://www.jetbrains.com)
+
 ## 项目简介
 内容共享管理客户端是一个方便用户分享和浏览内容的应用程序。它支持多平台，并且可以通过访问[内容共享管理服务端](https://github.com/Webb-L/contentShareManageServer)，将内容发送至服务器，以供其他客户端浏览。
 
